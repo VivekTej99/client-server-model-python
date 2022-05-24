@@ -1,5 +1,10 @@
 # simple-web-browser-python
-Implementation of web browser code which takes an input URL and returns the server response as output
+____
+
+
+Sockets have a long history. Their use originated with ARPANET in 1971 and later became an API in the Berkeley Software Distribution (BSD) operating system released in 1983 called Berkeley sockets.
+
+Implemenation of client server model using socket programming in python.
 
 ## Requirements
 
@@ -27,4 +32,4 @@ Implementation of web browser code which takes an input URL and returns the serv
 
 ## Run
 - Run the project
-    ``` python3 main.py ```
+    ``` python3 client.py ```
